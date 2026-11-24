@@ -9,7 +9,7 @@ Data scientist with a chemistry background, based in Boulder, Colorado. Since 20
 - **[pscf_py](https://github.com/ggreen98/pscf_py):** a multi-site Python library for PSCF and CWT analysis, geospatial statistical methods for mapping likely pollution source regions.
 - **[Skytap](https://github.com/ggreen98/Skytap):** a Dockerized pipeline that ran 285,103 HYSPLIT back trajectories, processing 30 TB of meteorological data in parallel across multiple machines.
 - **[Isoprene_Capstone](https://github.com/ggreen98/Isoprene_Capstone):** M.S. capstone forecasting isoprene 24 hours ahead with SARIMA, XGBoost, and PyTorch.
-- **[Allylic](https://allylic.org/)** ([code](https://github.com/ggreen98/the-octet-project)): a chemistry learning site with interactive 3D molecule views, built in Next.js and React Three Fiber.
+- **[Allylic](https://allylic.org/)** ([code](https://github.com/ggreen98/Allylic)): a chemistry learning site with interactive 3D molecule views, built in Next.js and React Three Fiber.
 - **[EBAS_Submissions](https://github.com/ggreen98/EBAS_Submissions):** a Python library that formats monitoring data into EBAS-compliant NASA Ames files.
 
 ## Tools
