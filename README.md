@@ -2,7 +2,7 @@
 
 Data scientist with a chemistry background, based in Boulder, Colorado. Since 2020 I've done air quality research at [Boulder A.I.R.](https://bouldair.com/), building the data pipelines, QC tools, statistical models, and libraries that turn raw sensor data into peer-reviewed results.
 
-**Portfolio:** [gabriel-greenberg-website.vercel.app](https://gabriel-greenberg-website.vercel.app) · **LinkedIn:** [gabe-greenberg](https://www.linkedin.com/in/gabe-greenberg-3604a31b7/)
+**Portfolio:** [gabriel-greenberg-website.vercel.app](https://gabriel-greenberg-website.vercel.app) · **LinkedIn:** [gabriel-greenberg](https://www.linkedin.com/in/gabriel-greenberg-3604a31b7/)
 
 ## Selected projects
 
